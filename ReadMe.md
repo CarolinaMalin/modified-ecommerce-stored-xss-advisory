@@ -153,48 +153,48 @@ Images retained from the researcher’s earlier report. Some show initial setup 
 
 ### Evidence image 1
 
-![Laboratory evidence evidence-01](images/evidence-01.png)
+![Laboratory evidence evidence-01](Stored_XSS_TXT_Imagens_GitHub/images/evidence-01.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 2
 
-![Laboratory evidence evidence-02](images/evidence-02.png)
+![Laboratory evidence evidence-02](Stored_XSS_TXT_Imagens_GitHub/images/evidence-02.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 3
 
-![Laboratory evidence evidence-03](images/evidence-03.png)
+![Laboratory evidence evidence-03](Stored_XSS_TXT_Imagens_GitHub/images/evidence-03.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 4
 
-![Laboratory evidence evidence-04](images/evidence-04.png)
+![Laboratory evidence evidence-04](Stored_XSS_TXT_Imagens_GitHub/images/evidence-04.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 5
 
-![Laboratory evidence evidence-05](images/evidence-05.png)
+![Laboratory evidence evidence-05](Stored_XSS_TXT_Imagens_GitHub/images/evidence-05.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 6
 
-![Laboratory evidence evidence-06](images/evidence-06.png)
+![Laboratory evidence evidence-06](Stored_XSS_TXT_Imagens_GitHub/images/evidence-06.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 7
 
-![Laboratory evidence evidence-07](images/evidence-07.png)
+![Laboratory evidence evidence-07](Stored_XSS_TXT_Imagens_GitHub/images/evidence-07.png)
 
 Source: researcher’s previous laboratory report.
 
 ### Evidence image 8
 
-![Laboratory evidence evidence-08](images/evidence-08.png)
+![Laboratory evidence evidence-08](Stored_XSS_TXT_Imagens_GitHub/images/evidence-08.png)
 
 Source: researcher’s previous laboratory report.
